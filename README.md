@@ -1,23 +1,28 @@
 
-<!-- =============== ABOUT ME =============== -->
-
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- ================= PROFILE HEADER ================= -->
 
 <div align="center">
 
-### Kunal Sikdar | `voidhat-kunal`
+# Kunal Sikdar
 
-**Ethical Hacker • Cybersecurity Enthusiast • Digital Forensics Learner**
+### `voidhat-kunal`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ethical+Hacker+%7C+Cybersecurity+Enthusiast;OSINT+%7C+Digital+Forensics;Cyber+Crime+Investigation;Penetration+Testing+%7C+Security+Research" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00F7FF?style=flat-square&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/Education-BCA_Student-blue?style=flat-square&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mindset-Always_Learning-success?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=voidhat-kunal&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p>
+  <a href="https://github.com/voidhat-kunal">
+    <img src="https://img.shields.io/github/followers/voidhat-kunal?label=Followers&style=for-the-badge&color=181717" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/voidhat-kunal?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Repositories" />
+  </a>
 </p>
 
 </div>
-
----
 
 <table>
 <tr>
